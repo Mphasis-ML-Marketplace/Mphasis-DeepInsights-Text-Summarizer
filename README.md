@@ -1,0 +1,2 @@
+# Mphasis-DeepInsights-Text-Summarizer
+Text Summarizer solution is an optimal way to tackle the problem of information overload by reducing the size of long documents into a few sentences . Neural-network-based models have the ability to automatically learn the distributed representation for sentences and documents. This summarizer is built using Transfer Learning and Transformer based models which use self attention. The input can have a maximum of 512 words and gives output of 3 sentences (approximately 30 words).
