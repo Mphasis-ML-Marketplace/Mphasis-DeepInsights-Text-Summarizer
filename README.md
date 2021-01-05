@@ -45,6 +45,6 @@ print("Batch Transform output saved to " + transformer.output_path)
 
 ## Resources
 
-1. Sample Notebook : [Ref](text_summary_marketplace.ipynb) 
-2. Sample Input : [Ref](SampleInput)
-3. Sample Output: [Ref](SampleOutput) 
+1. [Sample Notebook](text_summary_marketplace.ipynb) 
+2. [Sample Input](SampleInput)
+3. [Sample Output](SampleOutput) 
