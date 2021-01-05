@@ -1,0 +1,47 @@
+Opening Slide
+Hello to all in audience. 
+Determined to win in an ever-changing world riding on the technological wave, businesses are becoming more and more aggressive towards leveraging the rapidly evolving Artificial Intelligence and machine learning technologies. Mphasis strive to be in the forefront of the quest to enable our clients gain competitive advantage in their respective industries using the smart technologies. This led to founding of Next Labs in Mphasis. 
+Second Slide
+NEXT Labs vision is to become the preferred innovation partner for our clients. Set up in March 2015, our lab focuses on research and innovation on emergent and future paradigms related to Mphasis’ focus areas through disruptive world class innovations, thought leadership, and industry relevant solutions. NEXT Labs houses a core diverse set of passionate people who work on cutting-edge innovations and industry relevant solutions.
+Next Labs in last four years has developed a bouquet of offerings in the areas of cognitive intelligence, service transformation, cloud and cognitive consulting. These are the technology accelerators which enable processes to derive exponential returns by integrating them in their technology transformation programs. N ext Labs has emerged as a thought leader in the industry with white papers and conference presentations. It has multiple patents on its offerings. Its IPs and solutions have won multiple industry leading awards. As recently as 2018, its flagship offering won the AIconics award which is considered as the Oscars for cutting edge innovation in the banking and financial sector.
+Third Slide
+DeepInsights is the flagship cognitive intelligence offering from Next Labs enabling enterprises to get insights from multiple sources of data. It leverages state of the art algorithm in machine learning, deep learning, semantics, image analytics, predictive analysis and natural language processing. We are going to talk about DeepInsights in detail in this presentation.
+InfraGraf is another offering that leverages big data from device logs to diagnoses and predicts infrastructure issues even before they happen, optimizing enterprise technology infrastructure investments.
+HyperGraf is the Omni-channel Digital 360°solution providing comprehensive, accurate, real-time and actionable Customer Engagement Insights spread across multiple channels. Some of the use cases include but are not limited to - Reducing refinance churn for banking, Life event detection & Lead generation, Customer mortgage analytics, Broker submission analytics in Insurance
+Fourth Slide
+The next two offering are more focused on the Mphasis requirements. Cognitive Twin is an intelligent collaborator to the developers by helping them in code or knowledge search, domain support, code insights etc. It is basically a Stackoverflow database on top of which specifically developed models run to provide the developers and testers with relevant answers, suggested actions etc. 
+Autocode.ai automates the wireframe to code development process leading to reduction in time, cost and effort to go from requirements to code. It uses Generative Adversarial Networks to identify the wireframe elements and generate the corresponding code. It is an active area of research with diverse inputs like text, voice, workflow etc as inputs leading to automated code generation.
+Fifth Slide
+With DeepInsights we follow the moto of “Model the World. Model the Mind”. Winner of AIconics award it is the flagship offering from NextLabs with lots of interest and multiple deployments with our leading clients in diverse industries like banking, insurance, healthcare, logistics, energy etc.
+Sixth Slide
+In the ever-evolving world of data driven decision making, where businesses are striving to extract insights from all the data available to them, Most of us have been baffled by the question:
+•How do I organize these mountains of unstructured data to extract insights efficiently so that I can leverage the true potential of this data?
+•Whatever solution I put in place, can it be scaled for the enterprise, Will the solution solve my unique business problems, and help me gain competitive advantage?
+A large amount of this data, particularly unstructured data is processed by manual effort, as humans till recent times were the only sentient beings with cognitive abilities to see, listen and then infer the information. But in most of the business processes this is a costly activity and a wasteful use of human capabilities. 
+DeepInsights provides a solution to this problem.
+Seventh Slide
+DeepInsights provides solutions around data ingestion from a variety of sources, multiple formats, structured or unstructured. It leverages machine learning to standardize data, deriving context-based insights. It also has a predictive engine to enable the decision support system. It can be integrated with a wide variety of systems. 
+We have observed 80% to upto 95% accuracy in data extraction from unstructured sources like pdf, scanned documents, emails, images, tickets etc, a 60% to 80% reduction in processing time per case document and predictive accuracy going beyond 95%.
+Eighth Slide
+The data is sourced from any enterprise source like databases, documents, emails, logs, tickets and likewise. The DeepInsights data processing modules then ingest the data, clean it, run the custom developed discovery and search algorithms. Its analytics engines then leverage machine learning and deep learning techniques along with natural language processing, network analysis, image processing etc and bring out the information which can be visually presented using custom visualization platforms or can be fed to downstream processes like chatbots and RPA bots. This processing makes the insights and information available to the enterprise decision makers in easy visual and actionable format.
+
+
+Ninth Slide
+Another competitive advantage of DeepInsights are its re-useable components. There are pre-built modules which solve for use-cases like cognitive OCR, broker submission analysis, performance analytics, email analytics, life-event detection, log and ticket analysis, next best action prediction etc. While they get customized for each of the use case on hand, they significantly reduce the turn-around time for solution and deployment giving a cost and time advantage to the clients.
+The various use cases include
+•	In the banking sector – False Positive Detection for blocking sanctioned entities
+
+•	In the Mortgage Services sector – Location analysis for dynamically updating predictions for the most profitable brick and mortar store locations across geographies
+
+•	In the financial information sector – Enhanced Due Diligence through Risk Profiling of entities through aggregating and classifying risk information contained in public sources. 
+
+•	In logistics: Shipment delay Prediction for improving on time delivery. 
+
+•	In Insurance – Broker submission analysis for request prioritization to aid underwriter performance.
+ 
+ Closing Slide
+
+Please get in touch with Mphasis DeepInsights team for more information, and to set up a consultative session on how DeepInsights can help you realize the true potential of your data. Thank you.
+   
+
+
