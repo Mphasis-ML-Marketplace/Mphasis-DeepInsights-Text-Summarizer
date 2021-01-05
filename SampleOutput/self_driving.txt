@@ -1,0 +1,2 @@
+Autonomous cars combine a variety of sensors to perceive their surroundings , such as radar , lidar , sonar , gps , odometry and inertial measurement units. An autonomous car , also known as a robotic car , self-driving car , or driverless car ,   is a vehicle that is capable of sensing its environment and moving with little or no human input. Advanced control systems interpret sensory information to identify appropriate navigation paths , as well as obstacles and relevant signage.
+Execution time : 2.00seconds
