@@ -36,11 +36,12 @@ If you are using real time inferencing, please create the endpoint first and the
 
 Real-time inference snippet (more detailed example can be found in sample notebook):
 
-`sample_txt = 'location of input text file'`
-`transformer = model.transformer(1, 'ml.m5.xlarge') `
-`transformer.transform(sample_txt, content_type="text/plain")`
-`transformer.wait()`
-`print("Batch Transform output saved to " + transformer.output_path)`
+```sample_txt = 'location of input text file
+transformer = model.transformer(1, 'ml.m5.xlarge') 
+transformer.transform(sample_txt, content_type="text/plain")
+transformer.wait()
+print("Batch Transform output saved to " + transformer.output_path)
+```
 
 ## Resources
 
